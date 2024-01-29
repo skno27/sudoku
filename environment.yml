@@ -1,0 +1,7 @@
+name: pysudoku
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pprint
+  - pygame
